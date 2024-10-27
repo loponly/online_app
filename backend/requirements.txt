@@ -1,0 +1,18 @@
+Flask
+Flask-SQLAlchemy
+Flask-JWT-Extended
+python-dotenv
+Flask-CORS
+psycopg2-binary
+
+# Ensure all packages are compatible with Python 3.8
+# You might need to update specific package versions if they are not compatible with Python 3.8
+
+# Example:
+# package_name==version_number
+
+# If you have specific packages, update them here
+# e.g., numpy==1.19.5
+# e.g., pandas==1.1.5
+
+# ... existing package requirements ...
